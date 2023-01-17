@@ -1,6 +1,6 @@
 {
-    "name": "wisata app",
-    "short_name": "wisata app",
+    "name": "Wisata App",
+    "short_name": "Wisata App",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
